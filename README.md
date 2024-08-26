@@ -1,2 +1,5 @@
 # first_order_model_samples
-this repo contains sample img and vid for the first order model 
+
+This repository only keeps resources for the demo of the main repository.
+
+For more information, refer to the above repository.
